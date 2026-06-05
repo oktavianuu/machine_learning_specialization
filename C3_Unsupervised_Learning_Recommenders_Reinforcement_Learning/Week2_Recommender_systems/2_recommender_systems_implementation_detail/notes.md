@@ -79,7 +79,10 @@ b^{(5)} = [0]
 $$
 then
 $w^{(5)}$ . $x^{(1)}$ + $b^{(5)}$ + $\mu_1$ = 2.5 
-**IMPORTANT: NOT YET FINISHED**
+
+- This means that the rate new users who have not watch any movie is equal to the mean of other user's rating. 
+- In other words, the things we do is normalizing the data. This makes the algorithm run faster and efficient.
+- 
 
 ## Tensorflow Implementation of Collaborative Filtering
 
